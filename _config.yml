@@ -16,9 +16,7 @@
 title: Collaborative Research on Election Security and Trustworthiness (CREST)
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-      CREST is a group of predominently Australian-based researchers with an
-interest in mathematical and computational approaches that support election
-security and trustworthiness.
+      CREST is a group of predominently Australian-based researchers with an interest in mathematical and computational approaches that support election security and trustworthiness.
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: contrast
