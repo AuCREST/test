@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Collaborative Research on Election Security and Trustworthiness (CREST)
+title:  CREST
 email:
 description: >- # this means to ignore newlines until "baseurl:"
       CREST is a group of predominently Australian-based researchers with an interest in mathematical and computational approaches that support election security and trustworthiness.
@@ -55,10 +55,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
-#  name   : "First Lastname"
-#  avatar : "/assets/images/bio-photo.jpg"
-#  bio    : "My awesome biography constrained to a sentence or two goes here."
+author:
+  name   : "Collaborative Research on Election Security and Trustworthiness
+Group (CREST)"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "CREST is a group of predominently Australian-based researchers with an interest in mathematical and computational approaches that support election security and trustworthiness.
+"
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
